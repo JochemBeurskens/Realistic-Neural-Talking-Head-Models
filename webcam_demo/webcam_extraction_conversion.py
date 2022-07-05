@@ -1,5 +1,5 @@
 import cv2
-# import face_alignment
+import face_alignment
 from matplotlib import pyplot as plt
 import numpy as np
 import torch
