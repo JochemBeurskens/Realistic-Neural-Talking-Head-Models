@@ -9,7 +9,7 @@ import face_alignment
 from matplotlib import pyplot as plt
 #from .params.params import path_to_mp4, path_to_preprocess
 path_to_preprocess = '/content/face-alignment/test/assets'#/mnt/ACA21355A21322FE/VoxCeleb/saves2'
-path_to_mp4 = '/content/face-alignment/test/assets' #/mnt/ACA21355A21322FE/VoxCeleb/vox2_mp4/dev/mp4'
+path_to_mp4 = '/content/face-alignment/test/assets/mp4' #/mnt/ACA21355A21322FE/VoxCeleb/vox2_mp4/dev/mp4'
 
 K = 8
 num_vid = 0
